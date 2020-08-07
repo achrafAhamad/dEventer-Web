@@ -2,5 +2,5 @@ dEventer web es una red social para conocer gente creando planes o simplemente a
 de la página: https://deventer-bc2dc.web.app/
 
 Cuenta de prueba para iniciar sesión y poder utilizarla:
-user: pepe@gmail.com\par
+user: pepe@gmail.com
 pass: 123456
